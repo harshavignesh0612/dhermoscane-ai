@@ -1,0 +1,8 @@
+{
+  "name": "DermoScan AI",
+  "description": "A modern, accessible skin health screening prototype using AI simulation to analyze skin lesions.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
